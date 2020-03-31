@@ -1,0 +1,2 @@
+# Integrated-Defense-Systems-
+EMCORE supplies fiber optic gyroscope (FOG) inertial navigation and its subsidiary Systron Donner manufactures quartz micro-electromechanical systems (MEMS) inertial technology. Together they offer a full product suite serving a broad range of requirements across the tactical and navigation grade segments of the market, in International Traffic in Arms Regulations- (ITAR-) free solutions. https://insidegnss.com/emcore-recognized-by-raytheon-with-integrated-defense-systems-5-star-supplier-excellence-award/
